@@ -5,4 +5,4 @@ class Cat
 end
 
 
-cat.meow = puts "meow"
+Cat.meow = puts "meow"
