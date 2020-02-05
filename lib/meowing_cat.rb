@@ -4,7 +4,3 @@ class Cat(meow,name)
   attr_accessor:name
 end
 end
-
-cat.new = "maru"
-maru.name = "Maru"
-maru.meow = "meow"
