@@ -4,5 +4,5 @@ class Cat
   attr_accessor:name
 end
 
-cat.new = " maru"
-aru.meow
+cat.new = "maru"
+maru.meow = puts "meow"
