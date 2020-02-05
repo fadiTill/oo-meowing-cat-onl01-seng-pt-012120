@@ -4,5 +4,6 @@ class Cat
   attr_accessor:name
 end
 
+cat.new = maru
 maru.name = "Maru"
 maru.meow = "meow"
